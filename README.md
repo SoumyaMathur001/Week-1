@@ -17,10 +17,10 @@ This repository contains my Week 1 work as part of the internship project at AIC
 -Saved the cleaned dataset for use in upcoming weeks
 
 🛠️ **Tools & Libraries Used**
-Python
+-Python
 
-Pandas
+-Pandas
 
-NumPy
+-NumPy
 
-Jupyter Notebook
+-Jupyter Notebook
